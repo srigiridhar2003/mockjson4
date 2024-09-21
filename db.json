@@ -1,0 +1,166 @@
+{
+    "beverages" : [
+        {
+            "id": 1,
+            "item": "Masala Chai",
+            "price": 50,
+            "image": "https://media.istockphoto.com/id/1782058791/vector/chai-logo-design-karak-milk-chai-illustration-on-organic-background-spicy-hot-tea-design.jpg?s=612x612&w=0&k=20&c=rt99tMcY6ebnsaqokjzbHUgGgnzED6iEvLmDBa9D_jg=",
+            "description": "Spiced tea made with black tea, milk, and aromatic spices.",
+            "time": 5,
+            "rating": 4.7,
+            "count": 1800
+        },
+        {
+            "id": 2,
+            "item": "Lassi",
+            "price": 60,
+            "image": "https://media.istockphoto.com/id/1446346311/vector/lassi-indian-drink-hand-drawn-vector-indian-drink.jpg?s=612x612&w=0&k=20&c=ihl37p19OXxxKxf5f6FWu4X-uKva6HTH96yiOV4E57c=",
+            "description": "A creamy yogurt-based drink, served sweet or salty.",
+            "time": 10,
+            "rating": 4.6,
+            "count": 1500
+        },
+        {
+            "id": 3,
+            "item": "Nimbu Pani (Lemonade)",
+            "price": 40,
+            "image": "https://media.istockphoto.com/id/508272363/photo/lemonade-in-jar-with-ice-and-mint.jpg?s=612x612&w=0&k=20&c=gGGwH_ucmpe66i2krxekJ5MdgTMkNDho1IXD6PKePxY=",
+            "description": "A refreshing drink made from lemon, sugar, and salt.",
+            "time": 5,
+            "rating": 4.5,
+            "count": 1600
+        },
+        {
+            "id": 4,
+            "item": "Thandai",
+            "price": 80,
+            "image": "https://media.istockphoto.com/id/1139277785/photo/traditional-indian-spicy-milk.jpg?s=612x612&w=0&k=20&c=ls3STJtySwBbg_bZWAmcd58lJIC2uGpVz3WmEsDjC8k=",
+            "description": "A cooling milk-based drink flavored with almonds, saffron, and spices.",
+            "time": 15,
+            "rating": 4.8,
+            "count": 1300
+        },
+        {
+            "id": 5,
+            "item": "Jaljeera",
+            "price": 70,
+            "image": "https://media.istockphoto.com/id/1934739392/photo/lod-chong-or-cendol-is-an-iced-sweet-dessert-contains-droplets-of-green-rice-flour-jelly.jpg?s=612x612&w=0&k=20&c=mvxZZzXeBtYUtTR5yv1D9Wqt35Plbh1q4JNe2MvIYt8=",
+            "description": "A tangy, spiced drink made with cumin, mint, and lemon.",
+            "time": 8,
+            "rating": 4.4,
+            "count": 900
+        },
+        {
+            "id": 6,
+            "item": "Filter Coffee",
+            "price": 90,
+            "image": "https://media.istockphoto.com/id/1038762598/photo/steel-drip-coffee-maker-close-up.jpg?s=612x612&w=0&k=20&c=NQ5gZJpMHqVbVm3uQos3NS3GqCTIRp888xy32c9prkU=",
+            "description": "Strong South Indian coffee brewed with a metal filter.",
+            "time": 10,
+            "rating": 4.7,
+            "count": 1200
+        },
+        {
+            "id": 7,
+            "item": "Badam Milk",
+            "price": 110,
+            "image": "https://media.istockphoto.com/id/1142967958/photo/lassi_03.jpg?s=612x612&w=0&k=20&c=HRUXegRNBQkLEs1pK1p1DRz7wkYsqwC4UJNIrXMFtmY=",
+            "description": "A rich, almond-flavored milk drink often served chilled.",
+            "time": 15,
+            "rating": 4.5,
+            "count": 950
+        },
+        {
+            "id": 8,
+            "item": "Falooda",
+            "price": 130,
+            "image": "https://media.istockphoto.com/id/1369973404/vector/hand-drawn-falooda-sweet-drink.jpg?s=612x612&w=0&k=20&c=TV7a0Hn65ST8uNxiBA7GR-PvC6r9UNFvfLKJCJ-tQEk=",
+            "description": "A sweet, chilled dessert drink made with milk, vermicelli, and basil seeds.",
+            "time": 20,
+            "rating": 4.6,
+            "count": 700
+        }
+    ],
+    "sit" : [
+        {
+            "id": 1,
+            "item": "Dosa",
+            "price": 50,
+            "image": "https://media.istockphoto.com/id/1369496813/photo/south-indian-dosa-or-thosai-with-podi.jpg?s=612x612&w=0&k=20&c=-2OcHhVD2iUtH1-THTvkwt1qVQbNOYlFrHOQkwUxKnw=",
+            "description": "Thin, crispy fermented rice crepes served with chutneys and sambar.",
+            "time": 10,
+            "rating": 4.7,
+            "count": 2000
+        },
+        {
+            "id": 2,
+            "item": "Idli",
+            "price": 60,
+            "image": "https://media.istockphoto.com/id/1369496623/photo/jowar-or-sorghum-idli-and-dosa-with-chutneys.jpg?s=612x612&w=0&k=20&c=7xwX0OVC-A3vdZGSIr_JNk3tG_l0lUtIkPEWpl_UO5U=",
+            "description": "Soft, steamed rice cakes, typically served with chutney and sambar.",
+            "time": 8,
+            "rating": 4.6,
+            "count": 1900
+        },
+        {
+            "id": 3,
+            "item": "Vada",
+            "price": 70,
+            "image": "https://media.istockphoto.com/id/2157231633/vector/south-indian-breakfast-vada-served-with-coconut-chutney-and-sambar.jpg?s=612x612&w=0&k=20&c=S_pm_fhBGnUmKgb_nrWnotSDPgRCr_kiH5pzjPA4ZyM=",
+            "description": "Crispy, savory fritters made from lentil batter, usually served with chutneys.",
+            "time": 12,
+            "rating": 4.5,
+            "count": 1800
+        },
+        {
+            "id": 4,
+            "item": "Uttapam",
+            "price": 80,
+            "image": "https://media.istockphoto.com/id/1433396659/photo/uttapam.jpg?s=612x612&w=0&k=20&c=kKZ2R8G7R1mNuWkcrnu4aJ_-MckIuFJ4GbcuEGCiMXI=",
+            "description": "Thick, savory pancakes made from fermented rice and lentil batter.",
+            "time": 15,
+            "rating": 4.8,
+            "count": 1700
+        },
+        {
+            "id": 5,
+            "item": "Pongal",
+            "price": 90,
+            "image": "https://media.istockphoto.com/id/1292881938/vector/festive-beautiful-indian-mud-pot-overflowing-with-rice-a-vector-illustration.jpg?s=612x612&w=0&k=20&c=1coq62ekLjZMgdwck7jx3ZLVFwhRvUpE2QEhKkjnpbI=",
+            "description": "A creamy, savory dish made from rice and lentils, flavored with ghee.",
+            "time": 15,
+            "rating": 4.6,
+            "count": 1600
+        },
+        {
+            "id": 6,
+            "item": "Sambar",
+            "price": 70,
+            "image": "https://media.istockphoto.com/id/2171177480/vector/south-indian-food-sambar.jpg?s=612x612&w=0&k=20&c=h8KkrEpXv3lEZbSjLCqxaX6vnECyGDqWhfcpRmrCuds=",
+            "description": "A spicy, tangy lentil and vegetable stew often served with rice or dosa.",
+            "time": 12,
+            "rating": 4.4,
+            "count": 1550
+        },
+        {
+            "id": 7,
+            "item": "Rasam",
+            "price": 60,
+            "image": "https://media.istockphoto.com/id/1328991353/photo/georgian-traditional-soup-kharcho.jpg?s=612x612&w=0&k=20&c=4YLd4d3eWR5ZhGS-BEkCSR0C0hN62TdpRetFqM-Yhho=",
+            "description": "A thin, spicy soup made from tamarind, tomatoes, and spices.",
+            "time": 8,
+            "rating": 4.5,
+            "count": 1400
+        },
+        {
+            "id": 8,
+            "item": "Upma",
+            "price": 50,
+            "image": "https://media.istockphoto.com/id/1222198481/photo/kerala-breakfast-cuisine-upma-with-green-gram-masala-on-banana-leaf.jpg?s=612x612&w=0&k=20&c=QLTf5wChwx4yQO-kG9ScIQdZWmYavOe7ujgXx3f7jUg=",
+            "description": "A savory porridge made from semolina and vegetables, flavored with spices.",
+            "time": 10,
+            "rating": 4.3,
+            "count": 1300
+        }
+    ]
+}
